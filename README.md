@@ -2,7 +2,7 @@
  
 For those pesky times when you’ve used a Mograph Cloner object as an assistant to create an animation and then realised that when you export it as an FBX none of the animation survives.
 
-This Python plugin creates an "expanded" version of the Cloner (via current state to object) and then creates position, rotation and scale key frames every frame on the new hierarchy.
+This Python plugin creates an "expanded" version of the Cloner (via `current state to object`) and then creates position, rotation and scale key frames every frame on the new hierarchy.
 
 The original hierarchy is hidden and disabled, but is otherwise untouched.
 
@@ -20,4 +20,4 @@ At the moment it doesn't handle anything beyond the simplest use case, as that's
 ![New hierarchy with position, scale and rotation keys on every frame](/images/Screenshot-3.jpg)
 
 ### Warning ...
-There’s no error checking: I've not tested (and there's no handling) if you are not in object editing mode, etc.
+There’s no error checking orhandling at the moment: I've not tested what happens if you are not in object editing mode, or any similar situations. It just asssumes that you're ready to go with `current state to object`.
