@@ -16,7 +16,7 @@ At the moment it doesn't handle anything beyond the simplest use case, as that's
 ### Cloner with tank tread object, cloned along a spline: frame 90, offset 5.88%
 ![MoGraph cloner, object cloned along a spline, frame 90, offset 5.88%](/images/Screenshot-2.jpg)
 
-### Cloner hidden and disabled, new hierachy with individual position, rotation and scale keys on every frame of project timeline
+### Cloner hidden and disabled, new hierarchy with individual position, rotation and scale keys on every frame of project timeline
 ![New hierarchy with position, scale and rotation keys on every frame](/images/Screenshot-3.jpg)
 
 ### Warning ...
