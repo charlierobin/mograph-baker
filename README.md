@@ -19,3 +19,5 @@ At the moment it doesn't handle anything beyond the simplest use case, as that's
 ### Cloner hidden and disabled, new hierachy with individual position, rotation and scale keys on every frame of project timeline
 ![New hierarchy with position, scale and rotation keys on every frame](/images/Screenshot-3.jpg)
 
+### Warning ...
+There’s no error checking: I've not tested (and there's no handling) if you are not in object editing mode, etc.
