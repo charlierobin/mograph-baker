@@ -9,3 +9,10 @@ The original hierarchy is hidden and disabled, but is otherwise untouched.
 Also works with MoGraph Voronoi Fractures.
 
 At the moment it doesn't handle anything beyond the simplest use case, as that's all I needed it for, and I just wanted to see what was involved.
+
+![MoGraph cloner, object along a spline, frame 0, offset 0%](/images/Screenshot-1.jpg)
+
+![MoGraph cloner, object along a spline, frame 90, offset 5.88%](/images/Screenshot-2.jpg)
+
+![New hierarchy with position, scale and rotation keys on every frame](/images/Screenshot-3.jpg)
+
