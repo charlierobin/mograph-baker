@@ -10,12 +10,12 @@ Also works with MoGraph Voronoi Fractures.
 
 At the moment it doesn't handle anything beyond the simplest use case, as that's all I needed it for, and I just wanted to see what was involved.
 
-## Cloner with tank tread object, cloned along a spline: frame 0, offset 0%
+### Cloner with tank tread object, cloned along a spline: frame 0, offset 0%
 ![MoGraph cloner, object cloned along a spline, frame 0, offset 0%](/images/Screenshot-1.jpg)
 
-## Cloner with tank tread object, cloned along a spline: frame 90, offset 5.88%
+### Cloner with tank tread object, cloned along a spline: frame 90, offset 5.88%
 ![MoGraph cloner, object cloned along a spline, frame 90, offset 5.88%](/images/Screenshot-2.jpg)
 
-## Cloner hidden and disabled, new hierachy with individual position, rotation and scale keys on every frame of project timeline
+### Cloner hidden and disabled, new hierachy with individual position, rotation and scale keys on every frame of project timeline
 ![New hierarchy with position, scale and rotation keys on every frame](/images/Screenshot-3.jpg)
 
