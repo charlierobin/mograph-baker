@@ -21,3 +21,5 @@ At the moment it doesn't handle anything beyond the simplest use case, as that's
 
 ### Warning ...
 There’s no error checking or handling at the moment: I've not tested what happens if you are not in object editing mode, or any similar situations. It just asssumes that you're ready to go with `current state to object`.
+
+Also doesn't handle hierarchies of Cloners or anything like that: just the top level of Cloner/simple child object(s) to be cloned/arranged.
